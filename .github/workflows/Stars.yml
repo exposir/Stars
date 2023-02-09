@@ -1,19 +1,23 @@
-name: Stars
+name: Push_News
 
 on:
   schedule:
-    - cron: "1 1 * * *"
+    - cron: "*/30 * * * *" # 每半小时执行一次
   workflow_dispatch:
 
 jobs:
-  play:
+  fetch_news:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - name: Set time zone
+        run: sudo ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
           node-version: "16.x"
           registry-url: https://npm.pkg.github.com/
+      - name: Current time
+        run: date +%Y-%m-%d\ %H:%M:%S
       - name: Npm install
         run: npm install
       - name: Run Project
@@ -25,7 +29,7 @@ jobs:
           git pull
           git add .
           git status
-          git commit -m "Update stars" || echo "No changes to commit"
+          git commit -m "Update sentMessageIds" || echo "No changes to commit"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
