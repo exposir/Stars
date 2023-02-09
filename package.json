@@ -1,0 +1,15 @@
+{
+    "name": "note",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/exposir/note.git",
+    "author": "孟世博 <897205285@qq.com>",
+    "license": "MIT",
+    "scripts": {
+        "star": "node src/star.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "node-fetch": "2.6.1"
+    }
+}
