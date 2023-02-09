@@ -6,7 +6,7 @@
     "author": "孟世博 <897205285@qq.com>",
     "license": "MIT",
     "scripts": {
-        "star": "node src/star.js",
+        "start": "node src/star.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "dependencies": {
