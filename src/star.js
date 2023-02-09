@@ -7,13 +7,7 @@ let page = 1;
 const getData = () => {
   console.log(page);
   return fetch(
-    `https://api.github.com/users/exposir/starred?page=${page}&per_page=100`,
-    {
-      headers: {
-        Accept: "application/vnd.github.v3+json",
-        authorization: "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",
-      },
-    }
+    `https://api.github.com/users/exposir/starred?page=${page}&per_page=100`
   );
 };
 
