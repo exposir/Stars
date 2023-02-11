@@ -2,6 +2,8 @@
 
 ## JavaScript 
 
+- [js-challenges](https://github.com/Sunny-117/js-challenges) 
+- [SingleFile](https://github.com/gildas-lormeau/SingleFile) 
 - [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) 
 - [wechat-bot](https://github.com/wangrongding/wechat-bot) 
 - [p-limit](https://github.com/sindresorhus/p-limit) 
