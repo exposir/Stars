@@ -1,5 +1,16 @@
 # Star 
 
+## Swift 
+
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) 
+- [sample-food-truck](https://github.com/apple/sample-food-truck) 
+- [Gifski](https://github.com/sindresorhus/Gifski) 
+- [clashX](https://github.com/yichengchen/clashX) 
+- [TelegramSwift](https://github.com/overtake/TelegramSwift) 
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) 
+## Makefile 
+
+- [immersive-translate](https://github.com/immersive-translate/immersive-translate) 
 ## TypeScript 
 
 - [examples-archive](https://github.com/supabase/examples-archive) 
@@ -311,13 +322,6 @@
 - [frp](https://github.com/fatedier/frp) 
 - [Halfrost-Field](https://github.com/halfrost/Halfrost-Field) 
 - [go](https://github.com/golang/go) 
-## Swift 
-
-- [sample-food-truck](https://github.com/apple/sample-food-truck) 
-- [Gifski](https://github.com/sindresorhus/Gifski) 
-- [clashX](https://github.com/yichengchen/clashX) 
-- [TelegramSwift](https://github.com/overtake/TelegramSwift) 
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl) 
 ## null 
 
 - [how-web-works](https://github.com/vasanthk/how-web-works) 
