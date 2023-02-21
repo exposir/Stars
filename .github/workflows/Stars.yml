@@ -2,7 +2,7 @@ name: Push_News
 
 on:
   schedule:
-    - cron: "1 1 * * *" # 每天凌晨1点1分执行
+    - cron: "0 17 * * *" # 北京时间每天凌晨1点执行
   workflow_dispatch:
 
 jobs:
