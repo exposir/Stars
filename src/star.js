@@ -13,6 +13,8 @@ const getData = () => {
 
 const map = {};
 
+const list = [];
+
 const loading = async () => {
   const data = await getData();
   const res = await data.json();
@@ -22,6 +24,7 @@ const loading = async () => {
   }
 
   res.forEach((item) => {
+    list.push(item);
     if (!map[item.language]) {
       map[item.language] = [];
     }
@@ -43,6 +46,10 @@ const filePath = path.resolve(__dirname, `../README.md`);
 const docs = ["# Star \n\n"];
 
 const write = () => {
+  list.forEach((item) => {
+    docs.push(`- [${item.name}](${item.html_url}) \n`);
+  });
+
   for (i in map) {
     const language = i;
     const item = map[i];
