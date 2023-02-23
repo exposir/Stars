@@ -1,5 +1,10 @@
 # Star 
 
+- [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) 
+- [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) 
+- [docs](https://github.com/withastro/docs) 
+- [astro](https://github.com/withastro/astro) 
+- [Maskbook](https://github.com/DimensionDev/Maskbook) 
 - [FFCreator](https://github.com/tnfe/FFCreator) 
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) 
 - [JSONStream](https://github.com/yocontra/JSONStream) 
@@ -471,6 +476,8 @@
 - [vuex](https://github.com/vuejs/vuex) 
 ## JavaScript 
 
+- [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) 
+- [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) 
 - [FFCreator](https://github.com/tnfe/FFCreator) 
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) 
 - [JSONStream](https://github.com/yocontra/JSONStream) 
@@ -614,6 +621,9 @@
 - [vuex](https://github.com/vuejs/vuex) 
 ## TypeScript 
 
+- [docs](https://github.com/withastro/docs) 
+- [astro](https://github.com/withastro/astro) 
+- [Maskbook](https://github.com/DimensionDev/Maskbook) 
 - [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) 
 - [chatgpt-telegram-bot](https://github.com/sorrycc/chatgpt-telegram-bot) 
 - [slate](https://github.com/ianstormtaylor/slate) 
