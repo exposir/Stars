@@ -1,5 +1,6 @@
 # Star 
 
+- [codeverter](https://github.com/TGlide/codeverter) 
 - [chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) 
 - [liuquncn.github.io](https://github.com/liuquncn/liuquncn.github.io) 
 - [astro-air-blog](https://github.com/austin2035/astro-air-blog) 
@@ -470,7 +471,6 @@
 - [freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) 
 - [weekly](https://github.com/ascoders/weekly) 
 - [Web](https://github.com/qianguyihao/Web) 
-- [FE-interview](https://github.com/qiu-deqing/FE-interview) 
 - [blog](https://github.com/louzhedong/blog) 
 - [vue](https://github.com/vuejs/vue) 
 - [996.ICU](https://github.com/996icu/996.ICU) 
@@ -478,6 +478,12 @@
 - [fluwx](https://github.com/OpenFlutter/fluwx) 
 - [flutter](https://github.com/flutter/flutter) 
 - [vuex](https://github.com/vuejs/vuex) 
+## Svelte 
+
+- [codeverter](https://github.com/TGlide/codeverter) 
+- [swyxkit](https://github.com/sw-yx/swyxkit) 
+- [Hakuba](https://github.com/YeungKC/Hakuba) 
+- [macos-web](https://github.com/PuruVJ/macos-web) 
 ## Python 
 
 - [chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) 
@@ -596,7 +602,6 @@
 - [git-tips](https://github.com/521xueweihan/git-tips) 
 - [VPN](https://github.com/exposir/VPN) 
 - [Web](https://github.com/qianguyihao/Web) 
-- [FE-interview](https://github.com/qiu-deqing/FE-interview) 
 - [blog](https://github.com/louzhedong/blog) 
 - [996.ICU](https://github.com/996icu/996.ICU) 
 ## JavaScript 
@@ -927,11 +932,6 @@
 - [weekly](https://github.com/saucxs/weekly) 
 - [element-plus](https://github.com/element-plus/element-plus) 
 - [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) 
-## Svelte 
-
-- [swyxkit](https://github.com/sw-yx/swyxkit) 
-- [Hakuba](https://github.com/YeungKC/Hakuba) 
-- [macos-web](https://github.com/PuruVJ/macos-web) 
 ## Rust 
 
 - [OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) 
