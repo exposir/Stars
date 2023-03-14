@@ -1,5 +1,6 @@
 # Star 
 
+- [rspack](https://github.com/web-infra-dev/rspack) 
 - [codeverter](https://github.com/TGlide/codeverter) 
 - [chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) 
 - [liuquncn.github.io](https://github.com/liuquncn/liuquncn.github.io) 
@@ -478,6 +479,28 @@
 - [fluwx](https://github.com/OpenFlutter/fluwx) 
 - [flutter](https://github.com/flutter/flutter) 
 - [vuex](https://github.com/vuejs/vuex) 
+## Rust 
+
+- [rspack](https://github.com/web-infra-dev/rspack) 
+- [OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) 
+- [viz](https://github.com/viz-rs/viz) 
+- [turbo](https://github.com/vercel/turbo) 
+- [tauri](https://github.com/tauri-apps/tauri) 
+- [Pake](https://github.com/tw93/Pake) 
+- [warp](https://github.com/seanmonstar/warp) 
+- [pepcy-site](https://github.com/PepcyCh/pepcy-site) 
+- [zzhack](https://github.com/zzhack-stack/zzhack) 
+- [rustlings](https://github.com/rust-lang/rustlings) 
+- [starship](https://github.com/starship/starship) 
+- [vite-analysis](https://github.com/Kingbultsea/vite-analysis) 
+- [book](https://github.com/rust-lang/book) 
+- [RustBook](https://github.com/QMHTMY/RustBook) 
+- [xi-editor](https://github.com/xi-editor/xi-editor) 
+- [learn-rust-for-fe](https://github.com/i5ting/learn-rust-for-fe) 
+- [yew](https://github.com/yewstack/yew) 
+- [deno](https://github.com/denoland/deno) 
+- [rust](https://github.com/rust-lang/rust) 
+- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) 
 ## Svelte 
 
 - [codeverter](https://github.com/TGlide/codeverter) 
@@ -932,27 +955,6 @@
 - [weekly](https://github.com/saucxs/weekly) 
 - [element-plus](https://github.com/element-plus/element-plus) 
 - [blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript) 
-## Rust 
-
-- [OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) 
-- [viz](https://github.com/viz-rs/viz) 
-- [turbo](https://github.com/vercel/turbo) 
-- [tauri](https://github.com/tauri-apps/tauri) 
-- [Pake](https://github.com/tw93/Pake) 
-- [warp](https://github.com/seanmonstar/warp) 
-- [pepcy-site](https://github.com/PepcyCh/pepcy-site) 
-- [zzhack](https://github.com/zzhack-stack/zzhack) 
-- [rustlings](https://github.com/rust-lang/rustlings) 
-- [starship](https://github.com/starship/starship) 
-- [vite-analysis](https://github.com/Kingbultsea/vite-analysis) 
-- [book](https://github.com/rust-lang/book) 
-- [RustBook](https://github.com/QMHTMY/RustBook) 
-- [xi-editor](https://github.com/xi-editor/xi-editor) 
-- [learn-rust-for-fe](https://github.com/i5ting/learn-rust-for-fe) 
-- [yew](https://github.com/yewstack/yew) 
-- [deno](https://github.com/denoland/deno) 
-- [rust](https://github.com/rust-lang/rust) 
-- [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) 
 ## Dockerfile 
 
 - [reference](https://github.com/jaywcjlove/reference) 
