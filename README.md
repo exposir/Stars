@@ -484,6 +484,7 @@
 ## TypeScript 
 
 - [writely](https://github.com/anc95/writely) 
+- [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) 
 - [docs](https://github.com/withastro/docs) 
 - [astro](https://github.com/withastro/astro) 
 - [Maskbook](https://github.com/DimensionDev/Maskbook) 
@@ -766,7 +767,6 @@
 ## JavaScript 
 
 - [chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) 
-- [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) 
 - [FFCreator](https://github.com/tnfe/FFCreator) 
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) 
 - [JSONStream](https://github.com/yocontra/JSONStream) 
