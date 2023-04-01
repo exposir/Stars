@@ -1,5 +1,6 @@
 # Star 
 
+- [the-algorithm](https://github.com/twitter/the-algorithm) 
 - [Paddle](https://github.com/PaddlePaddle/Paddle) 
 - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 
 - [node-pandoc](https://github.com/eshinn/node-pandoc) 
@@ -502,6 +503,9 @@
 - [fluwx](https://github.com/OpenFlutter/fluwx) 
 - [flutter](https://github.com/flutter/flutter) 
 - [vuex](https://github.com/vuejs/vuex) 
+## Scala 
+
+- [the-algorithm](https://github.com/twitter/the-algorithm) 
 ## C++ 
 
 - [Paddle](https://github.com/PaddlePaddle/Paddle) 
