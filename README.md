@@ -1,5 +1,7 @@
 # Star 
 
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 
+- [nobelium](https://github.com/craigary/nobelium) 
 - [handsontable](https://github.com/handsontable/handsontable) 
 - [the-algorithm](https://github.com/twitter/the-algorithm) 
 - [Paddle](https://github.com/PaddlePaddle/Paddle) 
@@ -504,8 +506,29 @@
 - [fluwx](https://github.com/OpenFlutter/fluwx) 
 - [flutter](https://github.com/flutter/flutter) 
 - [vuex](https://github.com/vuejs/vuex) 
+## Python 
+
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 
+- [GLM-130B](https://github.com/THUDM/GLM-130B) 
+- [zhao](https://github.com/programthink/zhao) 
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) 
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) 
+- [chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) 
+- [91pornBot](https://github.com/jw-star/91pornBot) 
+- [CloudPiece](https://github.com/JoysKang/CloudPiece) 
+- [ins](https://github.com/zhaoolee/ins) 
+- [ytdlbot](https://github.com/tgbot-collection/ytdlbot) 
+- [blue](https://github.com/yihong0618/blue) 
+- [2022](https://github.com/yihong0618/2022) 
+- [GitHubPoster](https://github.com/yihong0618/GitHubPoster) 
+- [gitblog](https://github.com/yihong0618/gitblog) 
+- [httpie](https://github.com/httpie/httpie) 
+- [it-roadmap](https://github.com/shengxinjing/it-roadmap) 
+- [public-apis](https://github.com/public-apis/public-apis) 
+- [RAASNet](https://github.com/leonv024/RAASNet) 
 ## JavaScript 
 
+- [nobelium](https://github.com/craigary/nobelium) 
 - [handsontable](https://github.com/handsontable/handsontable) 
 - [node-pandoc](https://github.com/eshinn/node-pandoc) 
 - [chart.xkcd](https://github.com/timqian/chart.xkcd) 
@@ -881,25 +904,6 @@
 - [Web](https://github.com/qianguyihao/Web) 
 - [blog](https://github.com/louzhedong/blog) 
 - [996.ICU](https://github.com/996icu/996.ICU) 
-## Python 
-
-- [GLM-130B](https://github.com/THUDM/GLM-130B) 
-- [zhao](https://github.com/programthink/zhao) 
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) 
-- [chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) 
-- [91pornBot](https://github.com/jw-star/91pornBot) 
-- [CloudPiece](https://github.com/JoysKang/CloudPiece) 
-- [ins](https://github.com/zhaoolee/ins) 
-- [ytdlbot](https://github.com/tgbot-collection/ytdlbot) 
-- [blue](https://github.com/yihong0618/blue) 
-- [2022](https://github.com/yihong0618/2022) 
-- [GitHubPoster](https://github.com/yihong0618/GitHubPoster) 
-- [gitblog](https://github.com/yihong0618/gitblog) 
-- [httpie](https://github.com/httpie/httpie) 
-- [it-roadmap](https://github.com/shengxinjing/it-roadmap) 
-- [public-apis](https://github.com/public-apis/public-apis) 
-- [RAASNet](https://github.com/leonv024/RAASNet) 
 ## Rust 
 
 - [douyin-downloader](https://github.com/ClassmateLin/douyin-downloader) 
