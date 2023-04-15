@@ -2,7 +2,7 @@
 
 - [remirror](https://github.com/remirror/remirror) 
 - [AgentGPT](https://github.com/reworkd/AgentGPT) 
-- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) 
 - [nobelium](https://github.com/craigary/nobelium) 
 - [handsontable](https://github.com/handsontable/handsontable) 
 - [the-algorithm](https://github.com/twitter/the-algorithm) 
@@ -649,7 +649,7 @@
 - [vue](https://github.com/vuejs/vue) 
 ## Python 
 
-- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) 
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) 
 - [GLM-130B](https://github.com/THUDM/GLM-130B) 
 - [zhao](https://github.com/programthink/zhao) 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) 
